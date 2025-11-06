@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progamer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\Elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\Elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\GlobalConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\GlobalConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\ElevatorGui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\ElevatorGui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\CtrlDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\CtrlDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\ElevatorGui.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\ElevatorGui.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\DbConnectionFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\DbConnectionFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\CtrlElevator\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CtrlElevator\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progamer\\Elevator.sin||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Elevator.sin||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "CtrlElevator\\DbConnectionFactory.cs",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\DbConnectionFactory.cs",
+              "RelativeToolTip": "CtrlElevator\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:36:21.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\Program.cs",
+              "RelativeDocumentMoniker": "CtrlElevator\\Program.cs",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\Program.cs",
+              "RelativeToolTip": "CtrlElevator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:14:54.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\App.config",
+              "RelativeDocumentMoniker": "CtrlElevator\\App.config",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\App.config",
+              "RelativeToolTip": "CtrlElevator\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-04T11:22:01.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElevatorGui.Designer.cs",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\ElevatorGui.Designer.cs",
+              "RelativeDocumentMoniker": "CtrlElevator\\ElevatorGui.Designer.cs",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\ElevatorGui.Designer.cs",
+              "RelativeToolTip": "CtrlElevator\\ElevatorGui.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:19:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CtrlDoor.cs",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\CtrlDoor.cs",
+              "RelativeDocumentMoniker": "CtrlElevator\\CtrlDoor.cs",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\CtrlDoor.cs",
+              "RelativeToolTip": "CtrlElevator\\CtrlDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:18:54.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\Elevator.cs",
+              "RelativeDocumentMoniker": "CtrlElevator\\Elevator.cs",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\Elevator.cs",
+              "RelativeToolTip": "CtrlElevator\\Elevator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:19:14.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElevatorGui.cs",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\ElevatorGui.cs",
+              "RelativeDocumentMoniker": "CtrlElevator\\ElevatorGui.cs",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\ElevatorGui.cs",
+              "RelativeToolTip": "CtrlElevator\\ElevatorGui.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:19:15.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalConnection.cs",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\GlobalConnection.cs",
+              "RelativeDocumentMoniker": "CtrlElevator\\GlobalConnection.cs",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\GlobalConnection.cs",
+              "RelativeToolTip": "CtrlElevator\\GlobalConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:19:18.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "CtrlElevator\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "CtrlElevator\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:19:08.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "CtrlElevator\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "CtrlElevator\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:03:22.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CtrlElevator\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CtrlElevator\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:03:21.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Elevator.sin",
+              "DocumentMoniker": "D:\\progamer\\Elevator.sin",
+              "RelativeDocumentMoniker": "Elevator.sin",
+              "ToolTip": "D:\\progamer\\Elevator.sin",
+              "RelativeToolTip": "Elevator.sin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-04T11:03:17.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\progamer\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\progamer\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-04T11:03:15.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\progamer\\CtrlElevator\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "CtrlElevator\\Properties\\Settings.settings",
+              "ToolTip": "D:\\progamer\\CtrlElevator\\Properties\\Settings.settings",
+              "RelativeToolTip": "CtrlElevator\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-11-04T11:18:52.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
